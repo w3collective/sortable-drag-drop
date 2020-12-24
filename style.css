@@ -14,5 +14,5 @@ body {
   cursor: move;  
 }
 #quiz li.sortable-chosen {
-
+  background-color: lightslategray;
 }
